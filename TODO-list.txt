@@ -2,4 +2,4 @@ rac on oel5
 
 ogg
 
-A server of windows os
+add/remove node of rac

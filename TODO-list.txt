@@ -1,5 +1,11 @@
 rac on oel5
 
+add/remove node of rac
+
+stop datapump
+
+jianli
+
 ogg
 
-add/remove node of rac
+

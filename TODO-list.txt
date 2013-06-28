@@ -1,11 +1,13 @@
-rac on oel5
+周一前搞定
+	rac on oel5
+	stop datapump
 
-add/remove node of rac
 
-stop datapump
 
-jianli
-
-ogg
+待定
+	scripexecutor  文件名排序
+	add/remove node of rac
+	jianli
+	ogg
 
 
